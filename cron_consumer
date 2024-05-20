@@ -1,0 +1,3 @@
+* * * * * /usr/bin/php /path/to/your/consumer.php
+* * * * * sleep 10; /usr/bin/php /path/to/your/consumer.php
+* * * * * sleep 20; /usr/bin/php /path/to/your/consumer.php
